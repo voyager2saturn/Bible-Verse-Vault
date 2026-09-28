@@ -38,7 +38,7 @@ Your Bible verse collection should belong to you, not to a particular app.
 
 ## Attribution
 
-*This description was improved with the help of ChatGPT. The software was built with the help of Claude, based on my ideas and requirements.*
+*This description was improved with the help of AI. The software was built with the help of AI, based on my ideas and requirements.*
 
 ## A Final Note
 
