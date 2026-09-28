@@ -1,2 +1,32 @@
 # Bible-Verse-Vault
-Store your Bible verses with tags offline in JSON and CSV format. De-centralizes from other Bible Apps.
+
+Store and organize your Bible verses with tags **offline**, using portable **JSON and CSV** files. Bible-Verse-Vault keeps your verse collection independent of any specific Bible app or website, giving you greater control and ownership of your bookmarks.
+
+## Pros
+
+* ✅ **Offline storage** — Store your Bible verses and tags locally in JSON and CSV formats.
+* ✅ **App-independent** — Keep your verse collection independent of any specific Bible app or website.
+* ✅ **Portable** — Your bookmarks are stored in standard, widely supported file formats.
+* ✅ **You own your data** — Your verse collection stays with you and isn't locked into a particular app or service.
+* ✅ **Easy to migrate** — Move or reuse your verse collection across different tools and applications.
+
+## Cons
+
+* ❌ **You are responsible for backups** — If your device is lost, damaged, or wiped, your verse collection could be lost unless you have a backup.
+
+## Safeguards
+
+* ☁️ **Keep a daily backup** — Automatically back up your Bible-Verse-Vault files to a cloud storage provider of your choice.
+* 💾 **Keep an additional local backup** — Consider maintaining a second copy on another drive or device.
+* 🔄 **Use versioned backups** — Keep previous versions of your files so accidental changes or deletions can be recovered.
+
+> **Your Bible verse collection should belong to you, not to a particular app.**
+Recommended Bible App - Literal Word
+
+## Attribution
+
+*This description was improved with the help of ChatGPT. The software was built with the help of Claude, based on my ideas and requirements.*
+
+## A Final Note
+
+**May this project help and assist you in your Bible reading and study.**
