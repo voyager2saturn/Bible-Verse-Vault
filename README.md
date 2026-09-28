@@ -31,7 +31,7 @@ Store and organize your Bible verses with tags **offline**, using portable **JSO
 * 🔄 **Use versioned backups** — Keep previous versions of your files so accidental changes or deletions can be recovered.
 
 > [!NOTE]
-> **Recommended Bible App:** Literal Word ([Android](https://play.google.com/store/apps/details?id=com.literalword.mobile_app), [iOS](https://apps.apple.com/us/app/literal-word-bible-lexicon/id1439010388))
+> **Recommended Bible App:** Literal Word ([Android](https://play.google.com/store/apps/details?id=com.literalword.mobile_app), [iOS](https://apps.apple.com/us/app/literal-word-bible-lexicon/id1439010388), [Online Bible Webpage](https://literalword.com))
 
 ## Attribution
 
