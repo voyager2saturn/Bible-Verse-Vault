@@ -7,11 +7,13 @@ Bible-Verse-Vault keeps your verse collection independent of any specific Bible 
 Your Bible verse collection should belong to you, not to a particular app.
 
 ### Add a bookmark
-![Add bookmark](docs/demo/01-add-bookmark.gif)
+<img width="916" height="825" alt="image" src="https://github.com/user-attachments/assets/5549210f-f149-4869-98b4-9a20b21fdea8" />
 
 
-### Apply tag filters
-![Add bookmark](docs/demo/02-filter-tags-testament-version.gif)
+
+### Search and filters
+<img width="971" height="1548" alt="image" src="https://github.com/user-attachments/assets/d63f63d7-56f8-4c66-96f8-b1aae4d671ef" />
+
 
 ## Getting Started
 
