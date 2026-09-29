@@ -6,6 +6,13 @@ Bible-Verse-Vault keeps your verse collection independent of any specific Bible 
 
 Your Bible verse collection should belong to you, not to a particular app.
 
+### Add a bookmark
+![Add bookmark](docs/demo/01-add-bookmark.gif)
+
+
+### Apply tag filters
+![Add bookmark](docs/demo/02-filter-tags-testament-version.gif)
+
 ## Getting Started
 
 1. Download **Verse Vault HTML file** from **[Latest Releases](https://github.com/voyager2saturn/Bible-Verse-Vault/releases/latest)**.
