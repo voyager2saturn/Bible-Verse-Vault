@@ -43,10 +43,8 @@ Your Bible verse collection should belong to you, not to a particular app.
 > [!NOTE]
 > **Recommended Bible App:** Literal Word ([Android](https://play.google.com/store/apps/details?id=com.literalword.mobile_app), [iOS](https://apps.apple.com/us/app/literal-word-bible-lexicon/id1439010388), [Online Bible Webpage](https://literalword.com))
 
-## Attribution
-
-*AI tools have been used for this project*
-
 ## A Final Note
 
 **May this project help you in your Bible reading and study.**
+
+*AI tools have been used for the kingdom of God*
