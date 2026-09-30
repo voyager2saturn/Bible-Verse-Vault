@@ -1,19 +1,16 @@
-# Bible-Verse-Vault
+# Bible Verse Vault
 
-Store and organize your Bible verses with tags **offline**, using portable **JSON and CSV** files.
+Bible Bookmark Manager. Store and organize your Bible verses with tags **offline**, using portable **JSON and CSV** files.
 
-Bible-Verse-Vault keeps your verse collection independent of any specific Bible app or website, giving you greater control and ownership of your bookmarks. 
+Bible Verse Vault keeps your verse collection independent of any specific Bible app or website, giving you greater control and ownership of your bookmarks. 
 
 Your Bible verse collection should belong to you, not to a particular app.
 
 ### Add a bookmark
 <img width="916" height="825" alt="image" src="https://github.com/user-attachments/assets/5549210f-f149-4869-98b4-9a20b21fdea8" />
 
-
-
 ### Search and filters
 <img width="971" height="1548" alt="image" src="https://github.com/user-attachments/assets/d63f63d7-56f8-4c66-96f8-b1aae4d671ef" />
-
 
 ## Getting Started
 
