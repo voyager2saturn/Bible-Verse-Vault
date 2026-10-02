@@ -17,7 +17,7 @@ Your Bible bookmarks belongs to you.
 1. Download **Verse Vault HTML file** from **[Latest Releases](https://github.com/voyager2saturn/Bible-Verse-Vault/releases/latest)**.
 2. Open the downloaded HTML file in your web browser.
 3. Create bookmarks or import your Bible verse collection using the supported **JSON or CSV** format.
-4. If you don't have your own dataset yet, you can use the **[sample dataset](https://github.com/voyager2saturn/Bible-Verse-Vault/tree/main/sample-data)** included with the project to import and explore how Bible-Verse-Vault works.
+4. If you don't have your own dataset yet, you can use the **[sample dataset](https://github.com/voyager2saturn/Bible-Verse-Vault/blob/main/sample-data/sample.json)** included with the project to import and explore how Bible-Verse-Vault works.
 > [!NOTE]
 > **Tip:** The HTML application runs locally in your browser, so your Bible verse collection can remain on your device.
 
